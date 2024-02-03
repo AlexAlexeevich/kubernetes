@@ -119,10 +119,10 @@
 					</from>
 					<to>
 						<image>apleks/bookmarker-api</image>
-<!--						<tags>-->
-<!--							<tag>latest</tag>-->
-<!--							<tag>0.0.1</tag>-->
-<!--						</tags>-->
+						<tags>
+							<tag>latest</tag>
+							<tag>0.0.1</tag>
+						</tags>
 					</to>
 					<container>
 						<ports>
